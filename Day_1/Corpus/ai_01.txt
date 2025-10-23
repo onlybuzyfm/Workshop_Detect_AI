@@ -1,0 +1,5 @@
+La robótica difusa es una rama de la robótica que se basa en la lógica difusa para permitir a los robots tomar decisiones en entornos complejos e inciertos. A diferencia de la lógica convencional, que opera con valores binarios (verdadero/falso), la lógica difusa maneja grados de verdad, lo que la hace más adecuada para situaciones donde la información es imprecisa o incompleta.
+
+Los sistemas de control difuso se utilizan en robótica para modelar el comportamiento de los robots en situaciones donde las reglas son ambiguas o difíciles de definir con precisión. Esto permite a los robots adaptarse y tomar decisiones más cercanas a la forma en que lo haría un ser humano en situaciones similares.
+
+En resumen, la robótica difusa es una herramienta poderosa que permite a los robots operar de manera más inteligente y flexible en entornos que presentan incertidumbre o imprecisión en los datos de entrada.

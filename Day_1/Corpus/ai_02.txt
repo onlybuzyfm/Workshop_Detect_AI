@@ -1,0 +1,12 @@
+La inteligencia artificial (IA) es un campo de la informática que se centra en la creación de sistemas y máquinas capaces de realizar tareas que requieren inteligencia humana. Estos sistemas son diseñados para aprender, razonar, planificar, reconocer patrones y tomar decisiones de manera autónoma.
+
+La IA abarca una amplia gama de aplicaciones, desde asistentes virtuales como Siri y Alexa, hasta algoritmos de recomendación en plataformas como Netflix y Amazon, y vehículos autónomos como los coches sin conductor. Utiliza disciplinas como el aprendizaje automático, el procesamiento del lenguaje natural, la visión por computadora y la robótica para desarrollar sistemas inteligentes.
+
+El aprendizaje automático es una subdisciplina clave de la IA que se enfoca en desarrollar algoritmos que permiten a las máquinas aprender patrones a partir de datos y mejorar su rendimiento con la experiencia. Esto incluye técnicas como el aprendizaje supervisado, no supervisado y por refuerzo.
+
+El procesamiento del lenguaje natural (PLN) es otra área fundamental de la IA que se ocupa de la interacción entre las computadoras y el lenguaje humano. Permite a las máquinas entender, interpretar y generar texto y discurso de manera efectiva.
+
+La visión por computadora se centra en desarrollar sistemas que pueden interpretar y comprender la información visual del mundo real. Esto se aplica en campos como el reconocimiento facial, la clasificación de imágenes y la navegación autónoma.
+
+En resumen, la inteligencia artificial está transformando rápidamente diversos sectores, desde la atención médica y la manufactura hasta las finanzas y la logística. A medida que la tecnología avanza, la IA seguirá desempeñando un papel crucial en la automatización de tareas, la toma de decisiones y la creación de soluciones innovadoras para los desafíos del mundo actual.
+

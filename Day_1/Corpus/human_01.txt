@@ -1,0 +1,17 @@
+Este artículo presenta el desarrollo de un control de visión por
+
+computadora, el cual incorpora técnicas de inteligencia artificial: lógica difusa y redes neuronales artificiales (RNA) para ejecutar el seguimiento autónomo
+
+de la posición de un objeto de color específico. La información visual de la
+
+posición y color del objeto se obtienen por medio de una cámara web montada en un brazo robótico. El movimiento de cada articulación del brazo robot es
+
+controlado por lógica difusa y una RNA perceptrón-multicapa. La RNA es entrenada para clasificar y reconocer el color del objeto. Estos algoritmos son
+
+desarrollados utilizando las cajas de herramientas de lógica difusa, redes
+
+neuronales y procesamiento de imágenes de Matlab® v8.5. Este trabajo responde a las aplicaciones de inteligencia artificial realizadas para un brazo robótico servo-controlado de 6 grados de libertad (GDL) diseñado en CATIA v5.0 y
+
+manufacturado dentro de las instalaciones del Instituto Tecnológico Superior
+
+de Atlixco.

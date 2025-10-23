@@ -1,0 +1,11 @@
+En este capítulo encontrarás una descripción de la inteligencia artificial (IA) desde un punto de vista general.
+Cubriremos algunas de sus definiciones básicas, las razones
+por las que su papel en nuestras vidas es tan importante
+hoy día y las ventajas y desventajas de la misma. Hablaremos también de la importancia de los datos para que la IA
+funcione y la rapidez en que ésta se está desarrollando.
+El libro en general ha sido elaborado para despertar la
+curiosidad del lector y compartir algunas ideas con las que
+podrá sacar provecho de esta tecnología. Si bien, como hemos mencionado, no pretende ser una fuente de información que abarque todos los temas relacionados con la IA.
+Espero que la información que encuentre aquí el lector llame su atención y le inspire para profundizar en el mundo
+de la IA y sus aplicaciones. Al final de este capítulo, podrás
+ver un listado de recursos para consultar, si deseas profundizar en diferentes aspectos de la inteligencia artificial. 
